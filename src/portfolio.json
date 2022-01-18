@@ -1,0 +1,10 @@
+[
+    {
+    "id": 1,
+    "name": "whiskey inventory",
+    "image": "https://github.com/jpd61/jpd-react-portfolio/raw/master/src/assets/images/whiskey-inventory.PNG",
+    "github": "https://github.com/jpd61/project2-group8",
+    "deploy": "https://whiskey-inventory.herokuapp.com/",
+    "topics": "node-js, nodemon, express-js, handlebars-js, mysql, sequelize, dotenv, bcrypt, mocha, lodash, animate-css"
+    }
+]
