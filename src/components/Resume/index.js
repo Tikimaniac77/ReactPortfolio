@@ -7,9 +7,10 @@ function Resume() {
       <hr></hr>
       <div class="row justify-content-center" id="resume">
         <div class="mt-5 pl-5 pr-5">
-          Business executive and full stack developer with experience the MERN
-          and MEAN stacks. Experienced in commercial website and software
-          development.
+          <h1>
+            Business executive and full stack developer with MERN stack
+            experience.
+          </h1>
           <p class="mt-5">
             <a href="https://www.linkedin.com/in/michael-wachtel-86b099b1/">
               <img
@@ -21,7 +22,7 @@ function Resume() {
           <p>
             Download my full{" "}
             <a
-              href="https://github.com/Tikimaniac77/ReactPortfolio/raw/main/src/assets/Michael%20Wachtel%20-%20Brand%20and%20Resume/resume.docx.pdf"
+              href="https://github.com/Tikimaniac77/ReactPortfolio/raw/main/src/assets/resume.docx.pdf"
               class="link"
             >
               resume

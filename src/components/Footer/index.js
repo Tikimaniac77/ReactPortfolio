@@ -20,7 +20,7 @@ function Footer() {
       <p>
         &copy; MichaelWachtel |{" "}
         <a
-          href="https://github.com/Tikimaniac77/ReactPortfolio/raw/main/src/assets/Michael%20Wachtel%20-%20Brand%20and%20Resume/resume.docx.pdf"
+          href="https://github.com/Tikimaniac77/ReactPortfolio/raw/main/src/assets/resume.docx.pdf"
           class="link"
         >
           download resume

@@ -1,27 +1,27 @@
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
 
 :root {
   /* from coolers: https://coolors.co/f06543-e8e9eb-e0dfd5-313638-f09d51 */
-  --orange-soda:#F06543;
-  --platinum:#E8E9EB;
-  --alabaster:#E0DFD5;
-  --onyx:#313638;
-  --sandy-brown: #F09D51;
+  --orange-soda: #4394f0;
+  --platinum: #e8e9ebd7;
+  --alabaster: #dfdaa8;
+  --onyx: #313638;
+  --sandy-brown: #f08b51;
 }
 
-*  {
+* {
   background: var(--alabaster);
 }
 
@@ -38,7 +38,7 @@ p {
 }
 
 h1 {
-  margin: auto 30px; 
+  margin: auto 30px;
   padding: 10px;
   color: var(--onyx);
   font-weight: bold;

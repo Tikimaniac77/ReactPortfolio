@@ -9,42 +9,44 @@
     },
     {
       "id": 2,
+      "name": "MVC Tech Blog",
+      "image": "https://raw.githubusercontent.com/Tikimaniac77/ReactPortfolio/main/src/assets/images/MVC-Tech-Blog.jpg",
+      "github": "https://github.com/Tikimaniac77/MVC-Tech-Blog",
+      "deploy": "https://radiant-bayou-66804.herokuapp.com/",
+      "topics": "MySql database, CMS-Style, MVC, MySQL2, Express, Sequelize, Bulma, Handlebars, and dotenv"
+      },
+    {
+      "id": 3,
+      "name": "E Commerce Back-End",
+      "image": "https://raw.githubusercontent.com/Tikimaniac77/Employee-Tracker/main/assets/screenshot.jpg",
+      "github": "https://github.com/Tikimaniac77/Employee-Tracker",
+      "deploy": "https://watch.screencastify.com/v/SXsoGdkTd9M5XeQ8H076",
+      "topics": "node-js"
+      },
+    {
+      "id": 4,
       "name": "Today I Learned",
       "image": "https://raw.githubusercontent.com/Tikimaniac77/ReactPortfolio/main/src/assets/images/TodayILearned.png",
       "github": "https://github.com/chriscast94/mack-project-skills",
       "deploy": "https://chriscast94.github.io/mack-project-skills/",
       "topics": "API, Javascript, HTML, CSS"
       },
+      {
+        "id": 5,
+        "name": "Weather Dashboard",
+        "image": "https://raw.githubusercontent.com/Tikimaniac77/ReactPortfolio/main/src/assets/images/weather.png",
+        "github": "https://github.com/Tikimaniac77/Weather-Dashboard",
+        "deploy": "https://tikimaniac77.github.io/Weather-Dashboard/",
+        "topics": "Javascript, HTML, CSS"
+        },
     {
-        "id": 3,
+        "id": 6,
         "name": "Timed Quiz",
         "image": "https://raw.githubusercontent.com/Tikimaniac77/ReactPortfolio/main/src/assets/images/timed-quiz2.png",
         "github": "https://github.com/Tikimaniac77/Timed-Quiz",
         "deploy": "https://tikimaniac77.github.io/Timed-Quiz/",
         "topics": "Javascript, HTML, CSS"
-        },
-        {
-          "id": 4,
-          "name": "Weather Dashboard",
-          "image": "https://raw.githubusercontent.com/Tikimaniac77/ReactPortfolio/main/src/assets/images/weather.png",
-          "github": "https://github.com/Tikimaniac77/Weather-Dashboard",
-          "deploy": "https://tikimaniac77.github.io/Weather-Dashboard/",
-          "topics": "Javascript, HTML, CSS"
-          },
-          {
-            "id": 5,
-            "name": "Game Reviewer",
-            "image": "https://raw.githubusercontent.com/Tikimaniac77/ReactPortfolio/main/src/assets/images/game-reviewer.jpg",
-            "github": "https://github.com/Tikimaniac77/Game-Reviewer",
-            "deploy": "https://guarded-crag-64291.herokuapp.com/",
-            "topics": "node-js, nodemon, express-js, handlebars-js, mysql, sequelize, dotenv, bcrypt"
-            },
-            {
-              "id": 6,
-              "name": "Game Reviewer",
-              "image": "https://raw.githubusercontent.com/Tikimaniac77/ReactPortfolio/main/src/assets/images/game-reviewer.jpg",
-              "github": "https://github.com/Tikimaniac77/Game-Reviewer",
-              "deploy": "https://guarded-crag-64291.herokuapp.com/",
-              "topics": "node-js, nodemon, express-js, handlebars-js, mysql, sequelize, dotenv, bcrypt"
-              }
+        }      
+          
+            
 ]
