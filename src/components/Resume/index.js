@@ -21,7 +21,7 @@ function Resume() {
           <p>
             Download my full{" "}
             <a
-              href="https://github.com/Tikimaniac77/ReactPortfolio/raw/master/src/assets/src\assets\Michael Wachtel - Brand and Resume\resume.docx.pdf"
+              href="https://github.com/Tikimaniac77/ReactPortfolio/raw/main/src/assets/Michael%20Wachtel%20-%20Brand%20and%20Resume/resume.docx.pdf"
               class="link"
             >
               resume

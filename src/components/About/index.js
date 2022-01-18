@@ -10,7 +10,7 @@ function About() {
         <div className="col-10" id="about-section">
           <img
             class="mb-5"
-            src="https://github.com/Tikimaniac77/ReactPortfolio/raw/master/src/assets/images/headshot.png"
+            src="https://raw.githubusercontent.com/Tikimaniac77/ReactPortfolio/main/src/assets/images/headshot.png"
             alt="Michael Wachtel"
           />
           <p>

@@ -1,10 +1,50 @@
 [
     {
     "id": 1,
-    "name": "whiskey inventory",
-    "image": "https://github.com/jpd61/jpd-react-portfolio/raw/master/src/assets/images/whiskey-inventory.PNG",
-    "github": "https://github.com/jpd61/project2-group8",
-    "deploy": "https://whiskey-inventory.herokuapp.com/",
-    "topics": "node-js, nodemon, express-js, handlebars-js, mysql, sequelize, dotenv, bcrypt, mocha, lodash, animate-css"
-    }
+    "name": "Game Reviewer",
+    "image": "https://raw.githubusercontent.com/Tikimaniac77/ReactPortfolio/main/src/assets/images/game-reviewer.jpg",
+    "github": "https://github.com/Tikimaniac77/Game-Reviewer",
+    "deploy": "https://guarded-crag-64291.herokuapp.com/",
+    "topics": "node-js, nodemon, express-js, handlebars-js, mysql, sequelize, dotenv, bcrypt"
+    },
+    {
+      "id": 2,
+      "name": "Today I Learned",
+      "image": "https://raw.githubusercontent.com/Tikimaniac77/ReactPortfolio/main/src/assets/images/TodayILearned.png",
+      "github": "https://github.com/chriscast94/mack-project-skills",
+      "deploy": "https://chriscast94.github.io/mack-project-skills/",
+      "topics": "API, Javascript, HTML, CSS"
+      },
+    {
+        "id": 3,
+        "name": "Timed Quiz",
+        "image": "https://raw.githubusercontent.com/Tikimaniac77/ReactPortfolio/main/src/assets/images/timed-quiz2.png",
+        "github": "https://github.com/Tikimaniac77/Timed-Quiz",
+        "deploy": "https://tikimaniac77.github.io/Timed-Quiz/",
+        "topics": "Javascript, HTML, CSS"
+        },
+        {
+          "id": 4,
+          "name": "Weather Dashboard",
+          "image": "https://raw.githubusercontent.com/Tikimaniac77/ReactPortfolio/main/src/assets/images/weather.png",
+          "github": "https://github.com/Tikimaniac77/Weather-Dashboard",
+          "deploy": "https://tikimaniac77.github.io/Weather-Dashboard/",
+          "topics": "Javascript, HTML, CSS"
+          },
+          {
+            "id": 5,
+            "name": "Game Reviewer",
+            "image": "https://raw.githubusercontent.com/Tikimaniac77/ReactPortfolio/main/src/assets/images/game-reviewer.jpg",
+            "github": "https://github.com/Tikimaniac77/Game-Reviewer",
+            "deploy": "https://guarded-crag-64291.herokuapp.com/",
+            "topics": "node-js, nodemon, express-js, handlebars-js, mysql, sequelize, dotenv, bcrypt"
+            },
+            {
+              "id": 6,
+              "name": "Game Reviewer",
+              "image": "https://raw.githubusercontent.com/Tikimaniac77/ReactPortfolio/main/src/assets/images/game-reviewer.jpg",
+              "github": "https://github.com/Tikimaniac77/Game-Reviewer",
+              "deploy": "https://guarded-crag-64291.herokuapp.com/",
+              "topics": "node-js, nodemon, express-js, handlebars-js, mysql, sequelize, dotenv, bcrypt"
+              }
 ]

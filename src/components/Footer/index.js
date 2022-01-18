@@ -20,15 +20,14 @@ function Footer() {
       <p>
         &copy; MichaelWachtel |{" "}
         <a
-          href="https://github.com/Tikimaniac77/ReactPortfolio/raw/master/src/assets/src\assets\Michael Wachtel - Brand and Resume\resume.docx.pdf"
+          href="https://github.com/Tikimaniac77/ReactPortfolio/raw/main/src/assets/Michael%20Wachtel%20-%20Brand%20and%20Resume/resume.docx.pdf"
           class="link"
         >
           download resume
         </a>{" "}
-        |{" "}
-        <a href="https://coolors.co/f06543-e8e9eb-e0dfd5-313638-f09d51">
+        {/* <a href="https://coolors.co/f06543-e8e9eb-e0dfd5-313638-f09d51">
           color palette
-        </a>{" "}
+        </a>{" "} */}
         | made with{" "}
         <img
           id="react-icon"
